@@ -1,0 +1,305 @@
+*{
+	box-sizing: border-box;
+}
+.hover:hover{
+	transform: scale(1.03);
+}
+.header{
+	width: 60%;
+	margin: 0px auto;
+	padding: 5px 0px;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.logo img{
+	max-width: 100%;
+	height: auto;
+}
+.menu{
+	width: 80%;
+	float: left;
+	text-align: right;
+	padding-top: 10px;
+}
+.a1{
+	text-decoration: none;
+	color: white;
+}
+.menu a{
+	text-decoration: none;
+	font-family: monospace;
+	margin-left: 10px;
+	padding: 5px 10px;
+	color: black;
+}
+.menu a:hover{
+	color: red;
+}
+.dow{
+	background-color: lightgreen;
+	color: white;
+	border-radius: 4px;
+}
+.sec{
+	background-image: url("../images/head.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 400px;
+	padding: 100px;
+}
+.con{
+	width: 45%;
+	margin: 0px auto;
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+}
+.con p{
+	color: grey;
+}
+.con div{
+	background-color: yellow;
+	color: rgba(0, 0, 0,0.9);
+	width: 25%;
+	padding: 7px 20px;
+	font-family: monospace;
+	margin: 0px auto;
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+}
+.con h1{
+	font-family: arial;
+}
+.thi{
+	margin: 0px;
+	min-height: 300px;
+	padding: 15px;
+}
+.d1{
+	width: 60%;
+	margin: 0px auto;
+	height:200px;	
+
+}
+.d11{
+	font-family: monospace;
+
+}
+.row{
+	width: 100%;	
+	margin: 0px;	
+}
+.row1{
+	width: 50%;
+	float: left;
+	font-family: arial;
+}
+.row2{
+	width: 50%;
+	float: left;
+	font-family: arial;
+}
+.img1{
+	width: 35%;
+	float: left;
+
+}
+.img1 img{
+	max-width: 200%;
+	height: 169px;	
+}
+.im{
+	padding-top:25px;
+}
+.con1{
+	width: 65%;
+	float: left;
+	background-color:white;
+	padding: 0px 15px;
+	position: relative;
+	height: 169px;	
+}
+.con1 p{
+	font-size: 10px;
+	color: grey;
+	font-family: arial;
+}
+.im{
+	max-width: 100%;
+}
+.sidebar{
+	width: 30%;
+	height: auto;
+	padding: 50px 20px;
+	text-align: center;
+	float: left;
+}
+.sidebar h3{
+	font-family: monospace;
+	text-align: center;
+	border-collapse: 2px solid red;
+}
+.sidebar p{
+	color: grey;
+}
+.sidebar input{
+	padding: 7px 10px;
+	border-radius: 4px;
+	width: 100%;
+}
+.email{
+	margin-top: 15px;
+	border: 1px solid rgb(128,128,128);
+}
+.sub{
+	background-color: rgb(103,91,255);
+	padding: 6px 10px;
+	color: white;
+	border: 0px;
+	font-family: monospace;
+	margin-top: 10px;
+}
+.s{
+	text-align: left;
+	font-family: monospace;
+	padding-top: 50px;
+}
+.s p{
+	padding-top: 5px; 
+}
+.s1{
+	text-align: left;
+	font-family: monospace;
+	padding-top: 65px;
+}
+.s1 img{
+	max-width: 100%;
+	padding: 5px 0px 30px 0px;
+}
+.con2{
+	float: left;
+	width: 70%;
+	padding: 15px;
+
+}
+.con21{
+	width: 48%;
+	margin: 15px 10px 15px 0px;
+	padding: 10px;
+	float: left;
+}
+.con2 img{
+	max-width: 100%;
+}
+.con2 h2, .con2 h3{
+	font-family: monospace;
+}
+.con2 p{
+	color: grey;
+		
+	text-align: justify;
+	letter-spacing: 0.1px;
+	font-size: 12px;
+}
+.con2 h5{
+	width: 100%;
+	font-family: monospace;
+	text-align: center;
+}
+.fou{
+	background-color: yellow;
+	height: auto;
+	font-family: lucida sans regular;
+}
+.fo{
+	padding: 25px;
+}
+.footer{
+	background-color: rgb(23,30,39);
+	min-height: 300px;
+}
+.fr1{
+	width: 65%;
+	float: left;
+}
+.fr1 p{
+	font-size: 12px;
+}
+.fr2{
+	width: 35%;
+	float: left;
+	text-align: right;	
+}
+.fr1 div{
+	padding: 9px 12px;
+	background-color: rgb(103,91,255);
+	color: white;
+	width: 40%;
+	text-align: center;
+	border-radius: 4px;
+	margin-bottom: 25px; 
+}
+.foo{
+	padding: 50px 0px;
+}
+.foo div{
+	width: 25%;
+	float: left;
+	text-align: left;
+}
+.foo h3{
+	color: white;
+	font-family: monospace;
+
+}
+.foo p{
+	color: grey;
+	font-size: 10px;
+}
+.foo span{
+	border-bottom: 1px dotted grey;
+}
+.ico{
+	width: 10%;
+}
+.foot{
+	width: 50%;
+	float: left;
+	padding-top: 40px;
+	font-family: monospace;
+	color: grey;
+	font-size: 10px;
+}
+.foot span{
+	color: white;
+}
+.foot1
+{
+	text-align: right;
+}
+.fontaws{
+	margin-left:7px;
+	background-color: white;
+	border-radius: 4px;
+	padding: 7px;
+	float: left;
+	width: 12%;
+	
+}
+.fontaws1{
+	background-color: white;
+	padding: 8px 10px;
+	float: left;
+	border-radius: 4px;
+	width: 12%;
+}
+.iconss{
+	position: relative;
+	left: 100px;
+}
+.iconss div:hover{
+	transform: scale(1.08);
+}
