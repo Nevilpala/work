@@ -1,0 +1,164 @@
+*{
+	box-sizing: border-box;
+}
+.header{
+	width: 60%;
+	margin :0px auto;
+}
+.name{
+	width: 20%;
+	float: left;
+
+}
+.menu{
+	width: 80%;
+	font-size: 15px;
+	float: right;
+	padding-top:22px;
+	text-align: right;
+}
+.menu a{
+	margin-right: 30px;	
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+}
+.IMG{
+	background-image: url(./image/homeimg.jpg);
+	width: 100%;
+	height: 300px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	color: white;
+ }
+ .IMG h1{
+ 	padding-top: 60px;
+
+ }
+ .content{
+ 	margin-top: -40px;
+ }
+ .choose{
+ 	width: 33%;
+ 	float: left;
+ 	background-color: white;
+ 	padding: 40px 0px;
+ }
+ .choose img{
+ 	margin-left: 100px;
+ }
+ .hr{
+ 	width: 50%;
+ 	text-align: center;
+ 	margin: 0px auto;
+
+ }
+ .hr hr{
+ 	margin-bottom: 20px;
+ 	color: rgba(195,195,195,0.5);
+ }
+ .choose img{
+ 	text-align: center;
+ 	padding: 0px 8px;
+
+ }
+ .product{
+ 	width: 32%;
+ 	float: left;
+ 	padding: 20px 20px 0px 20px;
+ 	border: 1px solid rgba(195,195,195,0.5);
+ 	margin-left: 7px;
+ 	text-align: center;
+ }
+ .product img{
+ 	max-width: 100%;
+ }
+ .product h5{
+ 	padding-bottom: 10px; 
+ 	border-bottom: 5px double rgba(195,195,195,0.4);
+ }
+ .mid{
+ 	width: 30%;
+ 	margin: 20px auto;
+ }
+ .mid div{
+ 	float: left;
+ 	margin: 20px 0px; 
+ }
+ .mid1{
+ 	width: 84%;
+ 	padding: 11px;
+ 	background-color: rgb(0,187,167);
+ 	color: white;s
+ }
+ .mid2{
+ 	width: 16%;
+ }
+ .mid2 img{
+ 	max-width: 100%;
+ 	height: auto;
+ }
+ .product2{
+ 	width: 32%;
+ 	float: left;
+ 	padding: 20px 20px 15px 20px;
+ 	border: 1px solid rgba(195,195,195,0.4);
+ 	margin-left: 7px;
+ 	text-align: center;
+ }
+ .product2 h5{
+ 	padding-bottom: 10px; 
+ }
+ .product2 p{
+ 	color: grey;
+ }
+ .blue{
+ 	color: blue;
+ }
+ .con2{
+ 	text-align: center;
+ 	padding-top: 10px;
+ }
+ .com{
+ 	width: 9%;
+ 	margin: 10px auto;
+
+ }
+.con{
+	width: 60%;
+	margin: 0px auto;
+	color: grey;
+	text-align: center;
+}
+.con3{
+	text-align: center;
+	background-color: rgb(0,187,167);
+	padding: 30px 0px;
+	color: white;
+	font-size: 20px;
+}
+.con3 span{
+	border: 1px solid white;
+	padding: 10px;
+	margin-left: 20px;
+}
+.footer{
+	padding: 15px;
+	background-color: rgb(34,34,34);
+	color: white;
+	text-align: center;
+
+}
+.foot{
+	font-size: 20px;
+	padding: 10px;
+}
+.icon img{
+	border: 1px	solid rgba(255,255,255,0.2);
+}
+.last{
+	color: grey;
+}
+.last span{
+	color: rgb(0,187,167);
+}

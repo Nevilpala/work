@@ -1,0 +1,319 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+.one{
+	background-image: url("./images/images/banner.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 500px;
+}
+
+.trainer{
+	position: absolute;
+	width: 550px;
+	top:0;
+	right: 0px;
+}
+.menu{
+	padding: 15px 20px;
+}
+.logo{
+	float: left;
+	width: 25%;
+	position: relative;
+}
+.logo img{
+	max-width: 100%;
+	height: auto;
+	size: 100px;
+}
+.contact{
+	float: left;
+	text-align: right;
+	width: 75%;
+	text-transform: uppercase;
+	padding-top: 8px;
+	font-family: monospace;
+}
+.contact a{
+	text-decoration: none;
+	padding-left: 20px;
+	color: black;
+	font-size: 15px;
+}
+.contact img{
+	width: 10px;
+}
+.cont{
+	width: 24%;
+	padding-left: 325px;
+	padding-top: 115px;
+	font-family: monospace; 
+
+}
+.cont h1{
+	padding-bottom: 12px;
+	color: white;
+	font-size: 36px;
+
+}
+.cont h2{
+	padding-bottom: 11px;
+	color: rgb(235,105,158);
+	font-size: 29px;
+
+}
+.cont p{
+	color: white;
+}
+.cont div{
+	border: 2px solid rgb(235,105,158);
+	color: rgb(235,105,158);
+	margin-top:25px;
+	width: 20%;
+	padding:13px 25px;
+	text-align: center;
+}
+.sec{
+	text-align: center;
+	font-family: monospace;
+	padding: 40px;
+}
+.icon{
+	width:  60%;
+	margin: 0px auto;
+}
+.icon div{
+	width:20%;
+	float: left;
+	border: 1px solid rgba(192,192,192,0.5);
+	padding:30px 40px;
+	margin-left: 10px;
+	border-radius: 20px;
+}
+.icon img{
+	padding-bottom: 10px;
+	max-width: 100%;
+	height: auto;
+}
+.read{
+	border: 2px solid rgb(235,105,158);
+	color: rgb(235,105,158);
+	margin:30px auto;
+	width: 10%;
+	text-align: center;
+	padding:13px 25px;
+
+}
+.thir{
+	background-image: url(./images/images/disco.jpg);
+	background-size:100%;
+	background-repeat: no-repeat;
+	height: 250px;
+	position: relative;
+	text-align: center;
+	padding: 150px;
+	color: white;
+	font-family: monospace;
+}
+.con2{
+	width: 65%;
+	margin: 0px auto;
+
+}
+.t1{
+	padding-bottom: 10px;
+	font-size: 30px;
+
+}
+#t2{
+	font-size: 10px;
+}
+.read2{
+	border: 2px solid rgb(235,105,158);
+	color: rgb(235,105,158);
+	margin:30px auto;
+	width: 10%;
+	text-align: center;
+	padding:13px 25px;
+
+}
+.four{
+	padding-left: 200px;
+	height: 400px;
+	padding-bottom: 50px;
+
+}
+.four div{
+	text-align: center;
+
+}
+.four h1{
+	padding-bottom: 22px;
+	font-family: monospace;
+
+}
+.four p{
+ padding-bottom: 50px;
+}
+.form{
+	background-color: rgb(235,105,158);
+	width: 18%;
+	padding: 30px;
+	float: left;
+
+
+}
+.form div{
+	padding-bottom: 10px;
+	margin: 0px auto;
+
+}
+.form input{
+	border-radius: 15px;
+	background-color: rgb(235,105,158);
+	padding: 8px;
+	border: 1px solid rgba(255,255,255,0.5);
+	color: white;
+	
+}
+.form textarea{
+	background-color: rgb(235,105,158);
+	border: 1px solid rgba(255,255,255,0.5);
+	border-radius: 15px;
+	padding: 8px;
+	color: white;
+
+}
+
+.b{
+	float: left;
+	width: 50%;
+	background-color: red;
+}
+.b img{
+	max-width: 100%;
+	height: auto;
+}
+.fiv{
+	background-image: url(./images/images/cli.jpg);
+	height: 290px;
+	position: relative;
+	background-size:100%;
+	background-repeat: no-repeat;
+	padding: 50px;
+	text-align: center;		
+}
+.co1{
+	text-align: center;
+	color: white;
+	font-family: monospace;
+	letter-spacing: 1px;
+
+}
+.co1 h1{
+	padding: 20px 0px;
+}
+.co1 p{
+ padding-bottom: 38px;
+}
+.co2{
+	width: 38%;
+	margin: 0px auto;
+	background-color: white;
+	font-family: monospace;
+	text-align: center;
+	padding: 15px 20px;
+}
+.co2 h2{
+	padding-bottom: 20px;
+	color: rgba(0,0,0,0.7);
+}
+.co2 p{
+	color: grey;
+	text-align: center;
+}
+.co3{	
+	width: 3%;
+	margin: 20px auto;
+}
+.co3 img{
+	max-width: 100%;
+	height: auto;
+}
+.space{
+	width: 100%;
+	height: 50px;
+	background: white;
+}
+.last{
+	background-color: rgb(35,35,35);
+	font-family: monospace;
+	text-align: center;
+	padding-top: 30px;
+	height:auto;
+}
+.l1{
+	padding: 50px;
+	height: auto;
+
+
+}
+.f{
+	color: rgb(218,204,253);
+	padding: 10px;
+	font-size: 35px;
+}
+.s{
+	color: white;
+	padding-bottom: 20px;
+	font-size: 35px;
+}
+.l1 p{
+	color: white;
+ 	width: 34%;
+ 	margin: 0px auto;
+
+}
+.la{
+	width: 38%;
+	height: auto;
+	/*background-color: white;*/
+	margin: 50px auto;
+	border-radius: 40px;
+	border-color: white;
+}
+.la input{
+	width: 100%;
+
+}
+.in1{
+	padding: 10px;
+	border-radius: 40px;
+	border: 0px;
+}
+.in2{
+	border-radius: 40px;
+	border-color:orange;
+	padding: 10px;
+	background-color: orange;
+}
+.ab{
+	width: 80%;
+	float: left;
+}
+.bc{
+	width: 20%;
+	float: left;
+}
+.l2{
+	width: 100%;
+	border-top: 1px solid grey;
+	text-align: center;
+	color: white;
+	padding:18px;
+	font-size: 15px;
+	font-family: ariel;
+}
