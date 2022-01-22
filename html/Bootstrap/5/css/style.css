@@ -7,6 +7,12 @@
 nav{
 	position: relative;
 }
+.hr1{
+	opacity: 1;
+	height: 4px;
+	border-width: 0px;
+	font-weight: bolder;
+}
 .headerbg{
 	background-image: url(../images/header-bg.jpg);
 	background-size: cover;
@@ -16,7 +22,8 @@ nav{
 	background-image: url(../images/banner.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	min-height: 110vh;
+	min-height: 50vh;
+	padding-bottom: 50px;
 }
 .textsm{
 	font-size: 12px;
@@ -91,13 +98,6 @@ nav{
 	background-image: linear-gradient(to right, rgb(7,127,155), rgb(12,30,67));
 	margin-top: 90px;
 }
-.aeroplane{
-	position: absolute;
-	top: 840px;
-	right: 135px;
-	width: 470px;
-	height: 380px;
-}
 .ReadMore2{
 	border-radius: 20px;
 	background-color: #F3511D;
@@ -120,6 +120,11 @@ nav{
 	position: relative;
 	color: white;
 	bottom: 406px;
+}
+.londonbg{
+/*	background-image: url(../images/london.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;*/
 }
 .datetext{
 	position: relative;
