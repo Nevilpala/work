@@ -34,11 +34,11 @@
 }
 .imgdiscount{
 	background-image: url(./images/discount.jpg);
-	background-size: 100%;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 .padding{
-	padding: 15%;
+	padding: 10%;
 }
 .relativeimgbot{
 	position: relative;
@@ -61,14 +61,13 @@
 	width: 90%;
 	padding: 5px;
 	margin: 2% 0%;
-	text-shadow: ;
 }
 .send{
 	width: 20%;
 }
 .bgmap{
 	background-image: url(./images/map.png);
-	background-size: 110%;
+	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 .bgfooter{
