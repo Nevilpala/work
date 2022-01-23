@@ -121,12 +121,6 @@ nav{
 	color: white;
 	bottom: 406px;
 }
-.londonbg{
-	background-image: url(../images/London.jpg);
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
-	min-height: 35vh;
-}
 .datetext{
 	position: relative;
 	background-color: rgb(12,30,67);
