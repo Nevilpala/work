@@ -46,8 +46,8 @@ nav{
 	padding: 15px 0px;*/
 }
 #navbarNav1 a{
-	margin: 0px 16px;
-	padding: 5px 8px;
+	margin: 0px 15px;
+	padding: 4px 7px;
 	border: 1px solid rgba(0,0,0,0);
 	color: white;
 }
@@ -122,9 +122,10 @@ nav{
 	bottom: 406px;
 }
 .londonbg{
-/*	background-image: url(../images/london.jpg);
+	background-image: url(../images/london.jpg);
 	background-size: 100% 100%;
-	background-repeat: no-repeat;*/
+	background-repeat: no-repeat;
+	min-height: 35vh;
 }
 .datetext{
 	position: relative;
